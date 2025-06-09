@@ -51,7 +51,7 @@ StudyNotion is a full-stack EdTech application built using the MERN stack, desig
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/studynotion.git
+git clone https://github.com/abhiraj7821/StudyNotion.git
 cd studynotion
 ```
 
